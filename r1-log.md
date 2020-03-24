@@ -12,3 +12,6 @@ I completed the "Basic HTML and HTML5" section (1/8) of freeCodeCamp's Responsiv
 
 ### R1D3 - 2020/03/23
 I started and completed the "Basic CSS" section (2/8) of freeCodeCamp's Responsive Web Design Certification. 
+
+### R1D4 - 2020/03/24
+I started the "Applied Visual Design" section (3/8) of freeCodeCamp's Responsive Web Design Certification. Lots of concepts so far, powerful, but too many in the last few days.
