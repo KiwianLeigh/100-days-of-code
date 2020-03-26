@@ -15,3 +15,6 @@ I started and completed the "Basic CSS" section (2/8) of freeCodeCamp's Responsi
 
 ### R1D4 - 2020/03/24
 I started the "Applied Visual Design" section (3/8) of freeCodeCamp's Responsive Web Design Certification. Lots of concepts so far, powerful, but too many in the last few days.
+
+### R1D5 - 2020/03/25
+I completed the "Applied Visual Design" section (3/8), and started the "Applied Accessibility" section (4/8) of freeCodeCamp's Responsive Web Design Certification. too many visual design options. I'm eager to reach the projects section.
