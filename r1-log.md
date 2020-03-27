@@ -20,3 +20,6 @@ I started the "Applied Visual Design" section (3/8) of freeCodeCamp's Responsive
 I completed the "Applied Visual Design" section (3/8), and started the "Applied Accessibility" section (4/8) of freeCodeCamp's Responsive Web Design Certification. too many visual design options. I'm eager to reach the projects section.
 ### R1D6 - 2020/03/26
 I completed the "Applied Accessibility" section (4/8) and "Responsive Web Design Principles" section (5/8), and started "CSS Flexbox" section (6/8) of freeCodeCamp's Responsive Web Design Certification.
+
+### R1D7 - 2020/03/27
+I completed the "CSS Flexbox" section (6/8) of freeCodeCamp's Responsive Web Design Certification. Not much time today.
