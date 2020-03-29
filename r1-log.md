@@ -23,3 +23,8 @@ I completed the "Applied Accessibility" section (4/8) and "Responsive Web Design
 
 ### R1D7 - 2020/03/27
 I completed the "CSS Flexbox" section (6/8) of freeCodeCamp's Responsive Web Design Certification. Not much time today.
+
+### R1D8 - 2020/03/28
+I completed the "CSS Grid" section (7/8) of freeCodeCamp's Responsive Web Design Certification. Reached the last section, the projects: Project 1 - Tribute Page.
+I created a new repo on my GitHub account to keep track of the Projects' solutions (https://github.com/KiwianLeigh/freeCodeCamp). 
+Finally, I completed the "Hello world" Tutorial from GitHub guides (https://guides.github.com/activities/hello-world/) 
