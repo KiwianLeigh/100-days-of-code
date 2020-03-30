@@ -28,3 +28,6 @@ I completed the "CSS Flexbox" section (6/8) of freeCodeCamp's Responsive Web Des
 I completed the "CSS Grid" section (7/8) of freeCodeCamp's Responsive Web Design Certification. Reached the last section, the projects: Project 1 - Tribute Page.
 I created a new repo on my GitHub account to keep track of the Projects' solutions (https://github.com/KiwianLeigh/freeCodeCamp). 
 Finally, I completed the "Hello world" Tutorial from GitHub guides (https://guides.github.com/activities/hello-world/) 
+
+### R1D9 - 2020/03/29
+I started working on the first Project of the Responsive Web Design Certification: Project 1- Tribute Page. It's focused on the usage of HTML5 and CSS. I'm using CodePen, and created a new branch to keep track of the changes in github in the following URL: https://github.com/KiwianLeigh/freeCodeCamp/tree/fcc-tribute-page-rmt/Responsive%20Web%20Design%20Certification/Tribute%20Page
