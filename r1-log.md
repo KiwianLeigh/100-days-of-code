@@ -31,3 +31,6 @@ Finally, I completed the "Hello world" Tutorial from GitHub guides (https://guid
 
 ### R1D9 - 2020/03/29
 I started working on the first Project of the Responsive Web Design Certification: Project 1- Tribute Page. It's focused on the usage of HTML5 and CSS. I'm using CodePen, and created a new branch to keep track of the changes in github in the following URL: https://github.com/KiwianLeigh/freeCodeCamp/tree/fcc-tribute-page-rmt/Responsive%20Web%20Design%20Certification/Tribute%20Page
+
+### R1D10 - 2020/03/30
+I keep working on the first Project of the Responsive Web Design Certification: Project 1- Tribute Page. I think I am halfways, since the code is passing 7/10 tests required to pass. I am using the fcc example as a guide to make the best and not get stuck. 
