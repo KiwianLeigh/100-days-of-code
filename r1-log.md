@@ -34,3 +34,6 @@ I started working on the first Project of the Responsive Web Design Certificatio
 
 ### R1D10 - 2020/03/30
 I keep working on the first Project of the Responsive Web Design Certification: Project 1- Tribute Page. I think I am halfways, since the code is passing 7/10 tests required to pass. I am using the fcc example as a guide to make the best and not get stuck. 
+
+### R1D11 - 2020/04/04
+I keep working on the I keep working on the first Project of the Responsive Web Design Certification: Project 1- Tribute Page. Almost there, the code is passing 9/10 tests required to pass.
