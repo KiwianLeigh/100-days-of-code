@@ -37,3 +37,6 @@ I keep working on the first Project of the Responsive Web Design Certification: 
 
 ### R1D11 - 2020/04/04
 I keep working on the I keep working on the first Project of the Responsive Web Design Certification: Project 1- Tribute Page. Almost there, the code is passing 9/10 tests required to pass.
+
+### R1D12 - 2020/04/06
+I finished the first Project of the Responsive Web Design Certification: Project 1- Tribute Page (10/10 tests passed). Not looking great, but it's still functional. Codepen link: https://codepen.io/KiwianLeigh/pen/KKpJwqK
